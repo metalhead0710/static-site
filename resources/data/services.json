@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Some stuff repair",
+        "slug": "some-stuff-repair",
+        "meta_keywords": "Some, stuff, repair",
+        "meta_description": "Repairing of some stuff",
+        "image": "/img/aqua.png",
+        "text": "text text lorem ipsum hail satan"
+    },
+    {
+        "title": "Some stuff repair 2",
+        "slug": "some-stuff-repair-2",
+        "meta_keywords": "Some, stuff, repair, 2",
+        "meta_description": "Repairing of some stuff 2",
+        "image": "/img/darkness.jpg",
+        "text": "text text lorem ipsum hail satan"
+    },
+    {
+        "title": "Some stuff repair 3",
+        "slug": "some-stuff-repair-3",
+        "meta_keywords": "Some, stuff, repair, 3",
+        "meta_description": "Repairing of some stuff 3",
+        "image": "/img/useless.png",
+        "text": "text text lorem ipsum hail satan"
+    }
+]
